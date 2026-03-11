@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related leo APIs "
   contactDetails:
-    name: "Reine Aishwarya - lucky  new Product Owner"
+    name: "Reine Aishwarya - lucky  new 1 Product Owner"
     email: "{cipher}1cb608c5c688781aebf0d13c5f5d26883a985f71e9fd04537af14e08fa357f92ef50cc862fc93422a2afc076e0082622"
   onCallSupport:
     - (453) 392-4829
